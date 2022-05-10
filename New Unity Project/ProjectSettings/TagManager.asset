@@ -7,6 +7,7 @@ TagManager:
   - Start
   - Exit
   - Bullet
+  - Goal
   layers:
   - Default
   - TransparentFX

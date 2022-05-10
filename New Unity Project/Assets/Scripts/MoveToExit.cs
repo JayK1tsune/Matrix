@@ -16,10 +16,10 @@ public class MoveToExit : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Exit"))
+        if(other.CompareTag( "Goal" ))
         {
-           Destroy(gameObject);
-           Debug.Log("Has Collided");
+            Destroy(gameObject);
+            Debug.Log("Has Touched the balls");
         }
     }
 }
