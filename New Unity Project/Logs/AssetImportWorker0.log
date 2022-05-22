@@ -4893,3 +4893,70 @@ Domain Reload Profiling:
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (9ms)
 Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1825 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2490.
+Total: 3.032600 ms (FindLiveObjects: 0.201300 ms CreateObjectMapping: 0.068000 ms MarkObjects: 2.744100 ms  DeleteObjects: 0.017900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3707.533815 seconds.
+  path: Assets/Bullet.mat
+  artifactKey: Guid(2e3171c899d43cc4096058157dcd9abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullet.mat using Guid(2e3171c899d43cc4096058157dcd9abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0973c3f714e2af623578d5b40aff13d2') in 0.611043 seconds 
+  Import took 0.722096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.904167 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(692926bd12317604499442f3da877fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(692926bd12317604499442f3da877fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58eea12a09354e4bdca73ba7b1f2295f') in 0.015856 seconds 
+  Import took 0.036144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.683027 seconds.
+  path: Assets/Scenes/SampleScene
+  artifactKey: Guid(6c499469473938e48bfbb9f735977d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene using Guid(6c499469473938e48bfbb9f735977d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a42fca8af3372159d6e48431e0d51545') in 0.054487 seconds 
+  Import took 0.091850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001784 seconds.
+  path: Assets/Scenes/SampleScene/NavMesh.asset
+  artifactKey: Guid(ca027a985fcfe474c926dc0cba808512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/NavMesh.asset using Guid(ca027a985fcfe474c926dc0cba808512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cfe87a06ed1e71d14f9c3a1c60dc1e7') in 0.099472 seconds 
+  Import took 0.113967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.279186 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b7e8e7dd247c6b945ccc9f159f30a44') in 0.019487 seconds 
+  Import took 0.037472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.482277 seconds.
+  path: Assets/Scenes/TowerDefense.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TowerDefense.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7f3f749f127ffd04dbe78da5f03816') in 0.033287 seconds 
+  Import took 0.068646 seconds .
+

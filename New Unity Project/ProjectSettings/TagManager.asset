@@ -8,6 +8,7 @@ TagManager:
   - Exit
   - Bullet
   - Goal
+  - Angel
   layers:
   - Default
   - TransparentFX
