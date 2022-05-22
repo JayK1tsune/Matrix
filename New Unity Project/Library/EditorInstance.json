@@ -1,13 +1,6 @@
 {
-<<<<<<< HEAD
-	"process_id" : 11916,
+	"process_id" : 14008,
 	"version" : "2020.3.22f1",
 	"app_path" : "E:/Program Files (x86)/Unity/2020.3.22f1/Editor/Unity.exe",
 	"app_contents_path" : "E:/Program Files (x86)/Unity/2020.3.22f1/Editor/Data"
-=======
-	"process_id" : 12312,
-	"version" : "2020.3.22f1",
-	"app_path" : "D:/Unity/2020.3.22f1/Editor/Unity.exe",
-	"app_contents_path" : "D:/Unity/2020.3.22f1/Editor/Data"
->>>>>>> 0418f7e15be79b70dc6d7b804064f34969487cc3
 }
