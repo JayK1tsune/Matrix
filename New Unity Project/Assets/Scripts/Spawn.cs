@@ -17,7 +17,10 @@ public class Spawn : MonoBehaviour
     }
     private void Update()
     {
-       
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
     }
     IEnumerator SpawnAngels()
     {
@@ -35,4 +38,5 @@ public class Spawn : MonoBehaviour
         }
       
     }
+
 }
